@@ -1,3 +1,5 @@
+#If you run these in an IDE it does basic math processes
+
 #Addition
 
 def sum(a, b):
